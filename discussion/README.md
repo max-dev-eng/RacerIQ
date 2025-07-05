@@ -1,0 +1,1 @@
+This folder consists of the list of discussion items for each session and the updates done suring the duration till the next meetup/progress or blockers on the project. Each session is strcutured within date's specified folder.
